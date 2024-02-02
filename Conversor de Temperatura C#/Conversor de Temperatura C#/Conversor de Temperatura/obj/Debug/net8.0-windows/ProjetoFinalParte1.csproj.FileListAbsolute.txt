@@ -1,0 +1,17 @@
+Z:\1403\Programação\C#\C#_aula_12\ProjetoFinalParte1\ProjetoFinalParte1\bin\Debug\net8.0-windows\ProjetoFinalParte1.exe
+Z:\1403\Programação\C#\C#_aula_12\ProjetoFinalParte1\ProjetoFinalParte1\bin\Debug\net8.0-windows\ProjetoFinalParte1.deps.json
+Z:\1403\Programação\C#\C#_aula_12\ProjetoFinalParte1\ProjetoFinalParte1\bin\Debug\net8.0-windows\ProjetoFinalParte1.runtimeconfig.json
+Z:\1403\Programação\C#\C#_aula_12\ProjetoFinalParte1\ProjetoFinalParte1\bin\Debug\net8.0-windows\ProjetoFinalParte1.dll
+Z:\1403\Programação\C#\C#_aula_12\ProjetoFinalParte1\ProjetoFinalParte1\bin\Debug\net8.0-windows\ProjetoFinalParte1.pdb
+Z:\1403\Programação\C#\C#_aula_12\ProjetoFinalParte1\ProjetoFinalParte1\obj\Debug\net8.0-windows\ProjetoFinalParte1.Form1.resources
+Z:\1403\Programação\C#\C#_aula_12\ProjetoFinalParte1\ProjetoFinalParte1\obj\Debug\net8.0-windows\ProjetoFinalParte1.csproj.GenerateResource.cache
+Z:\1403\Programação\C#\C#_aula_12\ProjetoFinalParte1\ProjetoFinalParte1\obj\Debug\net8.0-windows\ProjetoFinalParte1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\1403\Programação\C#\C#_aula_12\ProjetoFinalParte1\ProjetoFinalParte1\obj\Debug\net8.0-windows\ProjetoFinalParte1.AssemblyInfoInputs.cache
+Z:\1403\Programação\C#\C#_aula_12\ProjetoFinalParte1\ProjetoFinalParte1\obj\Debug\net8.0-windows\ProjetoFinalParte1.AssemblyInfo.cs
+Z:\1403\Programação\C#\C#_aula_12\ProjetoFinalParte1\ProjetoFinalParte1\obj\Debug\net8.0-windows\ProjetoFinalParte1.csproj.CoreCompileInputs.cache
+Z:\1403\Programação\C#\C#_aula_12\ProjetoFinalParte1\ProjetoFinalParte1\obj\Debug\net8.0-windows\ProjetoFinalParte1.dll
+Z:\1403\Programação\C#\C#_aula_12\ProjetoFinalParte1\ProjetoFinalParte1\obj\Debug\net8.0-windows\refint\ProjetoFinalParte1.dll
+Z:\1403\Programação\C#\C#_aula_12\ProjetoFinalParte1\ProjetoFinalParte1\obj\Debug\net8.0-windows\ProjetoFinalParte1.pdb
+Z:\1403\Programação\C#\C#_aula_12\ProjetoFinalParte1\ProjetoFinalParte1\obj\Debug\net8.0-windows\ProjetoFinalParte1.genruntimeconfig.cache
+Z:\1403\Programação\C#\C#_aula_12\ProjetoFinalParte1\ProjetoFinalParte1\obj\Debug\net8.0-windows\ref\ProjetoFinalParte1.dll
+Z:\1403\Programação\C#\C#_aula_12\ProjetoFinalParte1\ProjetoFinalParte1\obj\Debug\net8.0-windows\ProjetoFinalParte1.Properties.Resources.resources
